@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:Tabbedbottm="clr-namespace:MyEssential8"
+            x:Class="MyEssential8.Tab">
+  <!--Pages can be added as references or inline-->
+    <Tabbedbottm:Page1 Title="Flashlight"></Tabbedbottm:Page1>
+    <Tabbedbottm:Page2 Title="Battery"></Tabbedbottm:Page2>
+    <Tabbedbottm:Page3 Title="Connectivity"></Tabbedbottm:Page3>
+    <Tabbedbottm:Page4 Title="Email"></Tabbedbottm:Page4>
+    <Tabbedbottm:Page5 Title="Screenshot"></Tabbedbottm:Page5>
+    <Tabbedbottm:Page6 Title="SMS"></Tabbedbottm:Page6>
+    <Tabbedbottm:Page7 Title="Contacts"></Tabbedbottm:Page7>
+    <Tabbedbottm:Page8 Title="Vibrate"></Tabbedbottm:Page8>
+</TabbedPage>
